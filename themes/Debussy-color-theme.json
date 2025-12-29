@@ -1,0 +1,96 @@
+{
+  "$schema": "vscode://schemas/color-theme",
+  "name": "Debussy",
+  "type": "light",
+  "colors": {
+    "editor.background": "#F6F2F4",
+    "editor.foreground": "#2E2A32",
+    "editorCursor.foreground": "#7E89C2",
+    "editor.selectionBackground": "#D3D9ED",
+    "editor.inactiveSelectionBackground": "#E2E6F2",
+    "editor.lineHighlightBackground": "#ECE7EF",
+    "editorLineNumber.foreground": "#A6A0AD",
+    "editorLineNumber.activeForeground": "#7E89C2",
+    "activityBar.background": "#EDE8F0",
+    "activityBar.foreground": "#2E2A32",
+    "sideBar.background": "#F2EEF4",
+    "sideBar.foreground": "#2E2A32",
+    "statusBar.background": "#C2C6E0",
+    "statusBar.foreground": "#1D1A20",
+    "titleBar.activeBackground": "#E1DDE9",
+    "titleBar.activeForeground": "#2E2A32",
+    "tab.activeBackground": "#F6F2F4",
+    "tab.activeForeground": "#2E2A32",
+    "tab.inactiveBackground": "#E8E3EE",
+    "tab.inactiveForeground": "#6B6474",
+    "panel.background": "#F1EDF3",
+    "panel.border": "#D6D1DD",
+    "button.background": "#7E89C2",
+    "button.foreground": "#111019",
+    "badge.background": "#B2A4D4",
+    "badge.foreground": "#241E31",
+    "input.background": "#FBF9FB",
+    "input.border": "#DCD7E4",
+    "focusBorder": "#7E89C2",
+    "selection.background": "#D3D9ED"
+  },
+  "tokenColors": [
+    {
+      "scope": "comment",
+      "settings": {
+        "foreground": "#7A7486",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": ["keyword", "storage"],
+      "settings": {
+        "foreground": "#6D7AB6",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": ["string", "constant.character"],
+      "settings": {
+        "foreground": "#C3A887"
+      }
+    },
+    {
+      "scope": ["variable", "identifier"],
+      "settings": {
+        "foreground": "#2E2A32"
+      }
+    },
+    {
+      "scope": ["entity.name.function"],
+      "settings": {
+        "foreground": "#556EA9"
+      }
+    },
+    {
+      "scope": ["entity.name.type", "support.type"],
+      "settings": {
+        "foreground": "#4B6B7A"
+      }
+    },
+    {
+      "scope": ["constant.numeric", "constant.language"],
+      "settings": {
+        "foreground": "#7B97C2"
+      }
+    },
+    {
+      "scope": ["punctuation", "meta.brace"],
+      "settings": {
+        "foreground": "#5B5663"
+      }
+    },
+    {
+      "scope": "invalid",
+      "settings": {
+        "foreground": "#FFFFFF",
+        "background": "#C44C61"
+      }
+    }
+  ]
+}
