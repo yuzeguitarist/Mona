@@ -10,6 +10,8 @@ A VS Code theme pack that gently recolors your editor with palettes inspired by 
 - **Van Gogh** – starry cobalt blues with sunflower gold sparks.
 - **Da Vinci** – grounded sepia workshop with brass and olive details.
 - **Vermeer** – luminous cream canvas with Delft blues and golden light.
+- **Klimt** – ornamental gold and emerald accents on a dark velvet backdrop.
+- **Chopin** – parchment and lilac twilight balanced with inky blue notes.
 
 ## Usage
 1. Open the Command Palette and run `Preferences: Color Theme`.
