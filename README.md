@@ -12,6 +12,7 @@ A VS Code theme pack that gently recolors your editor with palettes inspired by 
 - **Vermeer** – luminous cream canvas with Delft blues and golden light.
 - **Klimt** – ornamental gold and emerald accents on a dark velvet backdrop.
 - **Chopin** – parchment and lilac twilight balanced with inky blue notes.
+- **Satie** – modern, airy sage and slate neutrals for a calm, minimalist workspace.
 
 ## Usage
 1. Open the Command Palette and run `Preferences: Color Theme`.
