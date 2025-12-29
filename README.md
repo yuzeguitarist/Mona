@@ -20,3 +20,8 @@ A VS Code theme pack that gently recolors your editor with palettes inspired by 
 - This extension is theme-only; no activation events are required.
 - Update the color JSON files in `themes/` to tweak palettes or tokens.
 - Run `npm install` followed by `vsce package` if you want a `.vsix` for distribution.
+
+## Compatibility
+- Built on the standard VS Code theme format, so it works in Cursor and other VS Code–compatible editors.
+- Plays nicely with language extensions and UI components because it only supplies color tokens—no custom UI code.
+- If a third-party panel looks off, you can override any token via `workbench.colorCustomizations` without affecting the base palettes.
