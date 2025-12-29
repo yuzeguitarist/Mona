@@ -56,6 +56,11 @@
         "label": "Chopin",
         "uiTheme": "vs",
         "path": "./themes/Chopin-color-theme.json"
+      },
+      {
+        "label": "Satie",
+        "uiTheme": "vs",
+        "path": "./themes/Satie-color-theme.json"
       }
     ]
   },
