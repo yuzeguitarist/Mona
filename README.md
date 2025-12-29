@@ -13,6 +13,9 @@ A VS Code theme pack that gently recolors your editor with palettes inspired by 
 - **Klimt** – ornamental gold and emerald accents on a dark velvet backdrop.
 - **Chopin** – parchment and lilac twilight balanced with inky blue notes.
 - **Satie** – modern, airy sage and slate neutrals for a calm, minimalist workspace.
+- **Cage** – graphite nightfall with mint and linen accents for a restrained dark UI.
+- **Tadao** – pale concrete neutrals with steel-blue edges for a clean architectural feel.
+- **Ikeda** – crisp white canvas with glassy cyan highlights for ultra-light clarity.
 
 ## Usage
 1. Open the Command Palette and run `Preferences: Color Theme`.

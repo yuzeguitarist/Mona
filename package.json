@@ -61,6 +61,21 @@
         "label": "Satie",
         "uiTheme": "vs",
         "path": "./themes/Satie-color-theme.json"
+      },
+      {
+        "label": "Cage",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cage-color-theme.json"
+      },
+      {
+        "label": "Tadao",
+        "uiTheme": "vs",
+        "path": "./themes/Tadao-color-theme.json"
+      },
+      {
+        "label": "Ikeda",
+        "uiTheme": "vs",
+        "path": "./themes/Ikeda-color-theme.json"
       }
     ]
   },
