@@ -46,6 +46,16 @@
         "label": "Vermeer",
         "uiTheme": "vs",
         "path": "./themes/Vermeer-color-theme.json"
+      },
+      {
+        "label": "Klimt",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Klimt-color-theme.json"
+      },
+      {
+        "label": "Chopin",
+        "uiTheme": "vs",
+        "path": "./themes/Chopin-color-theme.json"
       }
     ]
   },
