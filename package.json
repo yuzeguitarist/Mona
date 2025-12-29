@@ -1,0 +1,57 @@
+{
+  "name": "mona-color-suite",
+  "displayName": "Mona Color Suite",
+  "description": "A gallery of natural VS Code color themes inspired by Monet, Debussy, Mozart, Scarlatti, Van Gogh, Da Vinci, and Vermeer.",
+  "version": "0.0.1",
+  "publisher": "mona",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monet",
+        "uiTheme": "vs",
+        "path": "./themes/Monet-color-theme.json"
+      },
+      {
+        "label": "Debussy",
+        "uiTheme": "vs",
+        "path": "./themes/Debussy-color-theme.json"
+      },
+      {
+        "label": "Mozart",
+        "uiTheme": "vs",
+        "path": "./themes/Mozart-color-theme.json"
+      },
+      {
+        "label": "Scarlatti",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Scarlatti-color-theme.json"
+      },
+      {
+        "label": "Van Gogh",
+        "uiTheme": "vs-dark",
+        "path": "./themes/VanGogh-color-theme.json"
+      },
+      {
+        "label": "Da Vinci",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DaVinci-color-theme.json"
+      },
+      {
+        "label": "Vermeer",
+        "uiTheme": "vs",
+        "path": "./themes/Vermeer-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "license": "MIT"
+}
