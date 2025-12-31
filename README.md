@@ -16,6 +16,8 @@ A VS Code theme pack that gently recolors your editor with palettes inspired by 
 - **Cage** – graphite nightfall with mint and linen accents for a restrained dark UI.
 - **Tadao** – pale concrete neutrals with steel-blue edges for a clean architectural feel.
 - **Ikeda** – crisp white canvas with glassy cyan highlights for ultra-light clarity.
+- **O'Keeffe** – desert bloom clay, sage, and turquoise for warm daylight focus.
+- **Ravel** – midnight teal and brass notes with softened moonlit contrast.
 
 ## Usage
 1. Open the Command Palette and run `Preferences: Color Theme`.
