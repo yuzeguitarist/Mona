@@ -1,7 +1,7 @@
 {
   "$schema": "vscode://schemas/color-theme",
   "name": "Ravel",
-  "type": "vs-dark",
+  "type": "dark",
   "colors": {
     "editor.background": "#111624",
     "editor.foreground": "#E6E9F2",

@@ -1,7 +1,7 @@
 {
   "$schema": "vscode://schemas/color-theme",
   "name": "O'Keeffe",
-  "type": "vs",
+  "type": "light",
   "colors": {
     "editor.background": "#F6EFE5",
     "editor.foreground": "#3B3228",
